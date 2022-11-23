@@ -1,0 +1,35 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "description": "Play this fun old MMO with us",
+            "date": "2022-01-01",
+            "time": "14:00:00",
+            "organizer": 1
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "game": 2,
+            "description": "A court of Fey and Flowers",
+            "date": "2022-01-01",
+            "time": "14:00:00",
+            "organizer": 1
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 3,
+        "fields": {
+            "game": 3,
+            "description": "Board Game Night",
+            "date": "2022-01-01",
+            "time": "14:00:00",
+            "organizer": 1
+        }
+    }
+]
